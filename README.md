@@ -13,8 +13,7 @@ Here are the languages and tools I've learned so far:
 - **UML (Unified Modeling Language)** 📊
 - **JavaScript** ✨
 - **HTML** 🌐 and **CSS** 🎨
-
----
+- **NETWORK** 🌐
 
 ## 📊 Language Stats
 
